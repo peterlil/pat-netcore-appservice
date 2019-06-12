@@ -1,0 +1,1 @@
+# pat-netcore-appservice
